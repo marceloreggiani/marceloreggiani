@@ -26,4 +26,4 @@
 
 </div>
 
-![Snake animation](https://github.com/marceloreggiani/marceloreggiani/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/marceloreggiani/marceloreggiani/blob/output/github-contribution-grid-snake.svg)-->
