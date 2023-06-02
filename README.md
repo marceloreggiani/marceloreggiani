@@ -28,7 +28,7 @@
   <img align="center" alt="Tchello-react" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Tchello-mysql" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
-  <br><br><br><br>
+  <br><br>
   <h2 align="center">Social Media</h2>	
   <a href="https://instagram.com/tchellobh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:mreggiani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
