@@ -1,4 +1,4 @@
-## Bem Vindo dev, Marcelo Reggiani Aqui!
+## Bem Vindo, Marcelo Reggiani Aqui!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcelo+Reggiani;I+am+from+Belo+Horizonte+-+MG+-+BRAZIL;I'm+a+Front-End+developer!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
