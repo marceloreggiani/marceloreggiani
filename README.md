@@ -6,12 +6,13 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=marceloreggiani&show_icons=true&theme=great-gatsby" alt="Anurag's GitHub stats">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloreggiani&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div> -->
+</div>
+-->
 <br>
 
 <div  align="center"> 
  <div style="display: inline_block"><br>
-  <img align="left" height="250" alt="coding-time" src="code.gif">
+  <img align="left" height="300" alt="coding-time" src="code.gif">
   <h1 align="center">Minhas Habilidades</h1> <br> 
   <img align="center" alt="Tchello-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tchello-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
