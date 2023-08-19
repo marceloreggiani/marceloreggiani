@@ -2,12 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcelo+Reggiani;I+am+from+Belo+Horizonte+-+MG+-+BRAZIL;I'm+a+Back-End+developer!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!--
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=marceloreggiani&show_icons=true&theme=great-gatsby" alt="Anurag's GitHub stats">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloreggiani&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
--->
+
 <br>
 
 <div  align="center"> 
