@@ -19,12 +19,13 @@ Meu objetivo é atuar em ambientes de **monitoramento, detecção e resposta a i
 
 ---
 
-<div align="center">
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=marceloreggiani&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloreggiani&layout=compact&langs_count=10&theme=great-gatsby&hide=php"/>
-</div>
+## 📊 Atuação Técnica (Visão Geral)
+
+- Base sólida em **lógica de programação e automação**
+- Experiência prática com **JavaScript, TypeScript e Node.js**
+- Conhecimento aplicado em **ambientes Linux e Windows**
+- Estudos focados em **monitoramento, análise de eventos e resposta a incidentes**
+- Laboratórios práticos em **ambiente virtualizado e isolado**
 
 <br>
 
