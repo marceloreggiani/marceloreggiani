@@ -19,9 +19,11 @@ Meu objetivo é atuar em ambientes de **monitoramento, detecção e resposta a i
 
 ---
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=marceloreggiani&show_icons=true&theme=great-gatsby" alt="GitHub stats">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloreggiani&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div align="center">
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=marceloreggiani&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloreggiani&layout=compact&langs_count=10&theme=great-gatsby&hide=php"/>
 </div>
 
 <br>
@@ -55,7 +57,8 @@ Meu objetivo é atuar em ambientes de **monitoramento, detecção e resposta a i
   <img align="center" alt="CSS3" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MySQL" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
 </div>
 
 <br>
