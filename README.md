@@ -1,6 +1,7 @@
 ## 👋 Bem-vindo! Eu sou Marcelo Reggiani
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=36&center=true&vCenter=true&width=1000&lines=Analista+de+Sistemas+em+Transição+para+Cibersegurança;Foco+em+Blue+Team+e+SOC;Laboratórios,+Simulações+e+Estudos+Defensivos;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=34&center=true&vCenter=true&width=1100&lines=Analista+de+Sistemas;Em+Transição+para+Cibersegurança;Foco+em+Blue+Team+e+SOC;Laboratórios+e+Estudos+Defensivos)](https://git.io/typing-svg)
+
 
 ---
 
